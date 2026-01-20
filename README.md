@@ -18,9 +18,9 @@ In many real-world TSV exports:
 - Standard TSV/CSV parsers fail because row boundaries are corrupted
 
 ### Example broken file
-1234 1234567890 John Smith 12 Main Street\n
-Apartment 4B\n
-Cityville\n
+1234 1234567890 John Smith 12 Main Street \
+Apartment 4B \
+Cityville \
 1235 1234567891 Jane Doe 8 High Road
 
 ### Fixed output
